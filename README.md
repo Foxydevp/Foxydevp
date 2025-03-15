@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxydevp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=bhavesh-duse&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=foxydevp&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxydevp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
